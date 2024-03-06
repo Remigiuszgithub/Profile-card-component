@@ -15,6 +15,7 @@ body{
     justify-content: center;
     align-items: center;
     font-size: 18px;
+    overflow-x: hidden;
 }
 .box {
     background-color: white;
